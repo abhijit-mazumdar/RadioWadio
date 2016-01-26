@@ -4,11 +4,11 @@ Radio Wadio is an open source radio station app with robust and professional fea
 
 <a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1069582280&mt=8"><img src="https://github.com/abhijit-mazumdar/RadioWadio/blob/master/screenshots/Download_on_the_App_Store_Badge_US-UK_135x40.png" width="135" alt="Download at the App Store" title="Download at the App Store"/></a>
 
-![alt text](https://github.com/abhijit-mazumdar/RadioWadio/blob/master/screenshots/sr1.png "")
-![alt text](https://github.com/abhijit-mazumdar/RadioWadio/blob/master/screenshots/sr2.png "")
-![alt text](https://github.com/abhijit-mazumdar/RadioWadio/blob/master/screenshots/sr3.png "")
-![alt text](https://github.com/abhijit-mazumdar/RadioWadio/blob/master/screenshots/sr4.png "")
-![alt text](https://github.com/abhijit-mazumdar/RadioWadio/blob/master/screenshots/sr5.png "")
+![alt text](https://github.com/abhijit-mazumdar/RadioWadio/blob/master/screenshots/rw1.png "")
+![alt text](https://github.com/abhijit-mazumdar/RadioWadio/blob/master/screenshots/rw2.png "")
+![alt text](https://github.com/abhijit-mazumdar/RadioWadio/blob/master/screenshots/rw3.png "")
+![alt text](https://github.com/abhijit-mazumdar/RadioWadio/blob/master/screenshots/rw4.png "")
+![alt text](https://github.com/abhijit-mazumdar/RadioWadio/blob/master/screenshots/rw5.png "")
 
 ##Features
 
