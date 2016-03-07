@@ -40,7 +40,7 @@ class PopUpMenuViewController: UIViewController {
    
     @IBAction func websiteButtonPressed(sender: UIButton) {
         // Use your own website URL here
-        if let url = NSURL(string: "https://github.com/abhijit-mazumdar/SwiftRadio") {
+        if let url = NSURL(string: "https://github.com/abhijit-mazumdar/RadioWadio") {
             UIApplication.sharedApplication().openURL(url)
         }
     }
